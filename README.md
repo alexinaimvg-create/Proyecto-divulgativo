@@ -14,15 +14,14 @@ Cada integrante desarrollara un tema con una demostracion sencilla, una explicac
 
 ## Equipo
 
-- Coordinacion general: Alexi
-- Vivian Shanty
-- Diego Antonio
-- Juan de Dios
-- Ana Itxhel
-- Hector Nain
-- Dariana
+- Alexis Naim Vasquez Gonzalez
+- Vivian Shanty Fragoso Aguilar
+- Diego Antonio Hernandez Morales
+- Juan de Dios valdivia Sanchez
+- Ana Ixchel Sanchez Lira
+- Hector Nain Cruz Medel
+- Dariana Campos Vazquez
 
-Nota: los correos del equipo no se incluyen en este repositorio base para evitar publicar datos personales. Si el repositorio queda privado, se puede agregar un documento interno de contactos.
 
 ## Estructura del proyecto
 
